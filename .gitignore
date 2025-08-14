@@ -1,0 +1,16 @@
+# Node.js
+frontend/node_modules/
+frontend/build/
+
+# Python
+backend-python/__pycache__/
+backend-python/venv/
+*.pyc
+
+# Java
+backend-java/target/
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
