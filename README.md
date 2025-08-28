@@ -12,7 +12,7 @@
 
 CyberGuard is an advanced cybersecurity risk assessment platform that combines machine learning, real-time monitoring, and intelligent threat detection to provide dynamic risk scoring for network entities. Built with React.js frontend, Python ML backend, and Java risk engine.
 
-### ✨ Key Features
+###  Key Features
 
 - 🔍 **Real-time Risk Monitoring** - Continuous assessment of network entities
 - 🤖 **ML-Powered Predictions** - Isolation Forest & Random Forest algorithms
@@ -342,3 +342,4 @@ kubectl apply -f k8s/
 # Install development dependencies
 npm install --dev           # Frontend
 pip install -r dev-requirements.txt  # Python
+
