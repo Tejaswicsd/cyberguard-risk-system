@@ -1,7 +1,7 @@
-echo "🚀 Setting up CyberGuard Risk Assessment System..."
+echo " Setting up CyberGuard Risk Assessment System..."
 
 # Setup Frontend
-echo "📦 Installing Frontend Dependencies..."
+echo " Installing Frontend Dependencies..."
 cd frontend
 npm install
 cd ..
@@ -15,7 +15,7 @@ pip install -r requirements.txt
 cd ..
 
 # Setup Java Backend
-echo "☕ Setting up Java Backend..."
+echo " Setting up Java Backend..."
 cd backend-java
 mvn clean install
 cd ..
